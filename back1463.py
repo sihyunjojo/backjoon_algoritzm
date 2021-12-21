@@ -9,4 +9,6 @@ while(num==1):
         break
     if (num != 1):
         num = num-1
+        
+#dp문제
  
